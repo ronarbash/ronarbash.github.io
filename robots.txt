@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronarbash.github.io/sitemap
+Sitemap: https://ronarbash.github.io/app/sitemap
+Sitemap: https://ronarbash.github.io/assets/sitemap
+Sitemap: https://ronarbash.github.io/css/sitemap
+Sitemap: https://ronarbash.github.io/includes/sitemap
+Sitemap: https://ronarbash.github.io/item/sitemap
+Sitemap: https://ronarbash.github.io/src/sitemap
